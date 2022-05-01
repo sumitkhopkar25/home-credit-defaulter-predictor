@@ -3,7 +3,7 @@ The Python Notebook provided in the repository predicts whether a person trying 
 
 https://www.kaggle.com/c/home-credit-default-risk/data
 
-The dataset is also uploaded in this repository. To briefly explain the dataset, it consists of personal and financial information of people but does not contain any PII Data.
+To briefly explain the dataset, it consists of personal and financial information of people but does not contain any PII Data.
 
 # Table of Contents
 * [Installation](https://github.com/sumitkhopkar25/home-credit-defaulter-predictor/tree/main#installation)
