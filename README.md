@@ -1,5 +1,5 @@
 # Home Credit Defaulter Predictor
-The Python Notebook provided in the repository predicts whether a person trying to avail a loan is capable of not defaulting the loan. The data that is used to perform this prediction is available from the below Kaggle Link -
+The Python Notebook provided in the repository predicts whether a person trying to avail a home loan is capable of not defaulting the loan. The data that is used to perform this prediction is available from the below Kaggle Link -
 
 https://www.kaggle.com/c/home-credit-default-risk/data
 
